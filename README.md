@@ -1,6 +1,8 @@
-## 숭실대학교 산업정보시스템공학과
-#### 강민규, 류석현, 민동욱, 홍혜원 ..... with 조문수 교수님
-# CJ-Routing-Optimization-Algorithm
+
+<h2 align='center'> 숭실대학교 산업정보시스템공학과(산업물류시스템) </h2>
+<h4 align='right'> 강민규, 류석현, 민동욱, 홍혜원 ..... with 조문수 교수님 </h4>
+<h1 align='center'> CJ-Routing-Optimization-Algorithm </h1>
+
 
 6,7,8이 최종 코드이며 나머지 1,2,3,4,5는 basecode및 basecode기준으로 순서대로 최적화 시킨 코드및 결과를 포함하고 있다. 6번의 최종코드는 주피터, 파이썬 두가지 파일 형식을 제공하고 있다. 그 외의 description은 아래와 같다.
 
